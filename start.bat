@@ -1,0 +1,3 @@
+node bc.js
+
+pause
